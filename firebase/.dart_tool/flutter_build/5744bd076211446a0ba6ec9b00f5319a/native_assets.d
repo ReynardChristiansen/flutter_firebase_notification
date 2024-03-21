@@ -1,0 +1,1 @@
+ C:\\Users\\Reynard\\OneDrive\\Pictures\\TUGAS_KULIAH\\Flutter\\firebase_testing\\firebase\\.dart_tool\\flutter_build\\5744bd076211446a0ba6ec9b00f5319a\\native_assets.yaml: 

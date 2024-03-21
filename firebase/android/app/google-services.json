@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225255576154",
+    "project_id": "persona-753f1",
+    "storage_bucket": "persona-753f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225255576154:android:48b1b41402b3570b39be63",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp8F5i6CeUjZBgDDWlpbIvcgP8xC5SXBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
